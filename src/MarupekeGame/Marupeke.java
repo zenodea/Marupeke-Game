@@ -13,7 +13,7 @@ import java.util.*;
  *  lastly the username. This class also holds all the methods to modify said data.
  *
  */
-public class Marupeke {
+public class nMarupeke {
     private  int count = 0, hintNum = 4;
     private  MarupekeGrid gameSession, initialSession;
     private  final Stack<String> prev = new Stack<>();
